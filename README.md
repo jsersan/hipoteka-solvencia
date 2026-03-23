@@ -165,3 +165,4 @@ Paso 6 — Resultado: score, rating, factores y recomendaciones
 
 > **Aviso:** Esta herramienta es de uso interno orientativo y no constituye oferta vinculante de financiación.
 # hipoteka-solvencia
+# hipoteka-solvencia
